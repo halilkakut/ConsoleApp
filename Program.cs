@@ -12,7 +12,7 @@ namespace ConsoleApp
             Console.WriteLine("İsim Giriniz:");
             string name = Console.ReadLine();
             Console.WriteLine("Soyİsim Giriniz:");
-            string lastName = Console.ReadLine();
+            string lastName = Console.ReadLine(); 
 
             Console.WriteLine("Merhaba " + name + " " + lastName);
         }
